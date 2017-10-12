@@ -46,5 +46,4 @@ function palindrome(high, low){
 }
 
 document.getElementById('answer').innerHTML = palindrome(999, 100);
-console.log("test");
 
